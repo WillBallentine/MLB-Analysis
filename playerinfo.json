@@ -1,0 +1,8 @@
+{
+"search_player_all": {
+"copyRight": " Copyright 2022 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt  ", "queryResults": {
+"created": "2022-11-01T18:11:08", "totalSize": "1", "row": {
+"position": "1B", "birth_country": "Dominican Republic", "weight": "235", "birth_state": "", "name_display_first_last": "Albert Pujols", "college": "MCC-Maple Woods", "height_inches": "3", "name_display_roster": "Pujols", "sport_code": "mlb", "bats": "R", "name_first": "Albert", "team_code": "lan", "birth_city": "Santo Domingo", "height_feet": "6", "pro_debut_date": "2001-04-02T00:00:00", "team_full": "Los Angeles Dodgers", "team_abbrev": "LAD", "birth_date": "1980-01-16T00:00:00", "throws": "R", "league": "NL", "name_display_last_first": "Pujols, Albert", "position_id": "3", "high_school": "Fort Osage, Independence, MO", "name_use": "Albert", "player_id": "405395", "name_last": "Pujols", "team_id": "119", "service_years": "", "active_sw": "Y"}
+}
+}
+}
